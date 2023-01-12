@@ -1,0 +1,48 @@
+#headerbtn {
+  margin-left: 900px;
+  margin-top: 20px;
+}
+#headerinfo {
+  padding-top: 200px;
+}
+
+#backgroundimg {
+  background-image: url("../images/bg-image-1.png");
+  height: 65vh;
+}
+#sec1txt {
+  text-align: center;
+  padding-top: 80px;
+}
+#sextxt1 {
+  background-color: white;
+  font-size: 47px;
+  margin: auto;
+  width: fit-content;
+  padding: 8px 10px;
+}
+#sectxt1 {
+  font-size: 47px;
+  color: white;
+}
+
+#txtgroup {
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  background: rgba(56, 71, 100, 0.8);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#txtgrouptxt1 {
+  font-size: 30px;
+}
+#txtgrouptxt2 {
+  font-size: 60px;
+  padding-left: 120px;
+}
+#txtgrouptxt3 {
+  padding-top: 30px;
+  font-size: 40px;
+  padding-right: 110px;
+}
